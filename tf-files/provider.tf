@@ -18,6 +18,6 @@ provider "aws" {
 
 
 provider "github" {
-  token = "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"
+  token = "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   # Configuration options
 }
